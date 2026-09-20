@@ -55,4 +55,18 @@ Duplicate Detection Removal
        ↓
 GeoPackage Generation
        ↓
-QGIS Visualization
+QGIS Visualization'''
+
+---
+✨ Key Features
+UAV orthomosaic tiling with overlap
+Preservation of GeoTIFF CRS and spatial transform
+QGIS-based tree crown annotation
+Conversion of QGIS polygons to YOLO segmentation labels
+YOLO11n-seg based tree crown detection
+Full-area tiled inference
+Tree crown centroid extraction
+Duplicate detection removal
+GeoPackage output
+QGIS-ready GIS data
+Python-based automation
